@@ -2,6 +2,8 @@
 
 A student engagement platform exclusively for RVCE students.
 
+https://rvce.space
+
 ## Project Structure
 
 - [Thoda Core](https://github.com/ProjectKula/ThodaCore) - Swift based GraphQL backend
